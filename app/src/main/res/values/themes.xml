@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShayriMotivationApp" parent="Theme.Material3.DynamicColors.DayNight.NoActionBar">
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+
+    <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.ShayriMotivationApp" parent="Base.Theme.ShayriMotivationApp" />
+</resources>
